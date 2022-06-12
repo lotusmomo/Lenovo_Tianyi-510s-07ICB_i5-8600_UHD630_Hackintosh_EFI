@@ -1,0 +1,2 @@
+# Lenovo_Tianyi-510s-07ICB_i5-8600_UHD630_Hackintosh_EFI
+Lenovo_Tianyi-510s-07ICB_i5-8600_UHD630_Hackintosh_EFI
